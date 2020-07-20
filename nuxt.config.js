@@ -68,7 +68,13 @@ export default {
   /*
   ++ Router config
   */
+  /* per /staging */
  router: {
    base: '/staging/',
  }
+ /* 
+   Per PROD  
+   router: {
+   base: '',
+ }*/
 }

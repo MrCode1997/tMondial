@@ -32,7 +32,7 @@
             London - 32 London Bridge St
           </div>
           <a href="tel:+442038078231" class="phone">
-            Mobile: +442038078231
+            Phone Number: +442038078231
           </a>
           <br>
           <a href="tel:+442038078231" class="phone">
@@ -53,7 +53,7 @@
             Sydney - MLC Centre
           </div>
           <a href="tel:+61 2 8091 4911" class="phone">
-            Mobile: +61 2 8091 4911
+            Phone Number: +61 2 8091 4911
           </a>
           <br>
           <a href="tel:+61 2 8091 4911" class="phone">

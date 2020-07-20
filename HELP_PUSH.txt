@@ -1,0 +1,22 @@
+PUSH STAGING 
+
+file index.vue 
+
+modificare dev : true  nel tag script
+
+poi modifcare il file  nuxt.config.js come da commenti Per PROD PER STAGING
+
+PUSH PROD
+
+file index.vue 
+
+modificare dev : fals  nel tag script
+
+poi modifcare il file  nuxt.config.js come da commenti Per PROD PER STAGING
+
+
+poi su riga comando nella root del progetto lanciare il comando "npm run build"
+
+dopo copiare il contenuto della cartella dist su aruba.
+
+per allineare il repository condiviso a fine modifiche eseguire il comando :  git add --all 
