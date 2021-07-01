@@ -101,16 +101,7 @@ export default {
       };
     },
   },
-  methods: {
-    async testInit() {
-      const response = await this.$axios.$get('https://good-test-gtw.herokuapp.com/working');
-      console.log(response);
-    }
-  },
   mounted() {
-
-    this.testInit();
-
     this.$nextTick(() => {
       document.getElementById('video').addEventListener('ended', () => {
         this.showVideo = false;
