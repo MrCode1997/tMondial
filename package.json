@@ -10,6 +10,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
+    "generate": "nuxt generate",
     "start": "nuxt start",
     "export": "nuxt export",
     "serve": "nuxt serve"
@@ -17,9 +18,10 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.11.0",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
-    "node-sass": "^4.14.1",
-    "nuxt": "^2.13.0",
-    "sass-loader": "^9.0.2"
+    "nuxt": "^2.13.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "sass": "^1.35.1",
+    "sass-loader": "^10.2.0"
+  }
 }
