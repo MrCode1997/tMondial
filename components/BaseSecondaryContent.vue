@@ -1,6 +1,6 @@
 <template>
   <div class="secondary-content-wrapper">
-    <BaseSecondaryContentItem v-for="item in $content.secondaryContent">
+    <BaseSecondaryContentItem v-for="item in $content.secondaryContent" :key="JSON.stringify(item)">
       <template #title>
         {{ item.title }}
       </template>

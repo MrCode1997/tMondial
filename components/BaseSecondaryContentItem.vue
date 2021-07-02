@@ -1,6 +1,6 @@
 <template>
   <p class="base-secondary-content-item">
-    <span class="title">
+    <span class="title" @click="onClickHandler">
       <slot name="title" />
     </span>
     <span class="content">
@@ -12,6 +12,11 @@
 <script>
 export default {
   name: 'BaseSecondaryContentItem',
+  methods: {
+    onClickHandler() {
+      this.$router.push('/contact');
+    }
+  },
 }
 </script>
 
@@ -40,6 +45,7 @@ export default {
     color: brown;
     text-decoration: underline;
     margin-bottom: 10px;
+    cursor: pointer;
   }
 
   .content {
