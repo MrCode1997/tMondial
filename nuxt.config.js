@@ -29,12 +29,14 @@ export default {
   ** Global CSS
   */
   css: [
+    '~/assets/css/main'
   ],
   /*
   ** Plugins to load before mounting the App
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
+    '~/plugins/webSiteContent'
   ],
   /*
   ** Auto import components
@@ -70,10 +72,10 @@ export default {
   */
   /* per /staging */
  router: {
-   base: '/staging/',
+   base: '/',
  }
- /* 
-   Per PROD  
+ /*
+   Per PROD
    router: {
    base: '',
  }*/
