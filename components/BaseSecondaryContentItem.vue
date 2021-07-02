@@ -50,7 +50,6 @@ export default {
 
   .content {
     color: white;
-    text-decoration: underline;
   }
 
   @media (max-width: 1200px) {
