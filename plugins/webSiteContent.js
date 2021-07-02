@@ -1,5 +1,5 @@
 const content = {
-  homePageWebSiteTitle: 'Internacinal Cosulencinc Finacer',
+  homePageWebSiteTitle: 'Financial Internetional Consulence',
   contactPageTitle: 'Contact only if you are really interested',
   secondaryContent: [
     {
