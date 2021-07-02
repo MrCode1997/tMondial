@@ -5,7 +5,7 @@
         {{ item.title }}
       </template>
       <template #content>
-        {{ item.description }}
+        <span v-html="item.description" />
       </template>
     </BaseSecondaryContentItem>
   </div>
