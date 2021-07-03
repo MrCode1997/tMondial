@@ -15,10 +15,10 @@
 
     <BaseMainContent>
       <template #title>
-        {{ $content.lenderaAndInvestors.title }}
+        {{ $content.lendersAndInvestors.title }}
       </template>
       <template #description>
-        {{ $content.lenderaAndInvestors.description }}
+        {{ $content.lendersAndInvestors.description }}
       </template>
     </BaseMainContent>
 
