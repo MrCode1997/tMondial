@@ -12,7 +12,7 @@ const content = {
     },
     {
       title: 'Companies',
-      description: '360° Business strategy . structure analysis and tax optimization . Study and brokerage on banking relationships',
+      description: '360° Business strategy. structure analysis and tax optimization. Study and intermediation on banking relationships',
     },
     {
       title: 'Credit',
@@ -29,7 +29,7 @@ const content = {
   ],
   internationalConsulting: {
     title: 'International Consulence',
-    description: 'Our financial consulting brokerage is a company with decades of experience in the field of managerial, corporate, private consulting and investments. From the 1st fall of the world stock exchange on 24 october 1929. Our headquarters in austrailia and swizerland allow us to provide our costumers with an exlusive service that comes with the idea of bringhing together individuals, professionals and companies, creating a synergy through a preferential channel with the sole intention of providing a personalized service and hoc for the end customer. Our mission is to create an economic and lasting solidity over time by restarting the world economy.',
+    description: 'Our financial consulting intermediation is a company with decades of experience in the field of managerial, corporate, private consulting and investments. From the 1st fall of the world stock exchange on 24 october 1929. Our headquarters in austrailia and swizerland allow us to provide our costumers with an exlusive service that comes with the idea of bringhing together individuals, professionals and companies, creating a synergy through a preferential channel with the sole intention of providing a personalized service and hoc for the end customer. Our mission is to create an economic and lasting solidity over time by restarting the world economy.',
   },
   lendersAndInvestors: {
     title: 'Lenders and Investors',
