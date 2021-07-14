@@ -42,7 +42,7 @@ export default {
   }
 
   .title {
-    color: brown;
+    color: darkorange;
     text-decoration: underline;
     margin-bottom: 10px;
     cursor: pointer;

@@ -23,17 +23,21 @@
     </BaseMainContent>
 
     <BaseSecondaryContent />
+
+    <PrivacyContent />
   </div>
 </template>
 
 <script>
 import BaseMainContent from '../components/BaseMainContent';
 import BaseSecondaryContent from '../components/BaseSecondaryContent';
+import PrivacyContent from '../components/PrivacyContent';
 export default {
   name: 'HomePage',
   components: {
     BaseMainContent,
     BaseSecondaryContent,
+    PrivacyContent,
   },
 }
 </script>

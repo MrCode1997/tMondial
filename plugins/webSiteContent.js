@@ -1,6 +1,7 @@
 const content = {
   homePageWebSiteTitle: 'International Financial Consulting',
   contactPageTitle: 'Contact only if you are really interested',
+  privacy: 'Privacy & Disclaimer Print this page Privacy & Disclaimer Privacy Policy receives names, e-mail addresses and other personally identifying information only when personally submitted by users through the optional registration or feedback feature, the online survey or the request forms.',
   secondaryContent: [
     {
       title: 'Private',
@@ -33,7 +34,7 @@ const content = {
   },
   lendersAndInvestors: {
     title: 'Lenders and Investors',
-    description: 'Our clients and investors are a group of individuals chosen on the basis of their Aviability and quality deriving specifically from the world elite: russian maniat, tsars, semit, Asians chairmans, americans CEO’s and emirates.',
+    description: 'Our clients and investors are a group of individuals chosen on the basis of their Availability and quality deriving specifically from the world elite: russian maniat, tsars, semit, Asians chairmans, americans CEO’s and emirates.',
   }
 };
 

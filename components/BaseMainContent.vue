@@ -36,7 +36,7 @@ p.home-page-main-content {
   }
 
   .title {
-    color: brown;
+    color: darkorange;
     text-decoration: underline;
     cursor: pointer;
     margin-bottom: 10px;
